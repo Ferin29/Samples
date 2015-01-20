@@ -1,0 +1,1 @@
+var = static_cast<dest type>(var source)
